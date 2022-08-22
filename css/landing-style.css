@@ -1,6 +1,10 @@
 html {
         font-family: 'Poppins', sans-serif;
 font-family: 'Source Serif Pro', serif;
+        html {
+        font-family: 'Poppins', sans-serif;
+font-family: 'Source Serif Pro', serif;
+}
 }
 
 @font-face {
@@ -222,17 +226,33 @@ color: #2F3B40;
 body {
     font-family: 'Poppins', sans-serif;
 font-family: 'Source Serif Pro', serif;
+        html {
+        font-family: 'Poppins', sans-serif;
+font-family: 'Source Serif Pro', serif;
+}
 }
 h1 {
     font-family: 'Poppins', sans-serif;
 font-family: 'Source Serif Pro', serif;
+        html {
+        font-family: 'Poppins', sans-serif;
+font-family: 'Source Serif Pro', serif;
+}
 }
 p {
     font-family: 'Poppins', sans-serif;
 font-family: 'Source Serif Pro', serif;
+        html {
+        font-family: 'Poppins', sans-serif;
+font-family: 'Source Serif Pro', serif;
+}
 }
 
 html {
         font-family: 'Poppins', sans-serif;
 font-family: 'Source Serif Pro', serif;
+        html {
+        font-family: 'Poppins', sans-serif;
+font-family: 'Source Serif Pro', serif;
+}
 }
